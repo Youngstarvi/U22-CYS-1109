@@ -11,7 +11,6 @@ System.out.print("Enter the first number: ");
    int result = performOperation(firstNumber, secondNumber, operation);
    System.out.println("Your answer is: " + result);
 }
- 
 public static int performOperation(int firstNumber, int secondNumber, String operation)
 {
    int result = 0;
